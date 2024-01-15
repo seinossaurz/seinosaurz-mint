@@ -1,12 +1,12 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "name":"Seinosaurz",
+    "description":"Seinosaurz with 3889 collection represents the original saurz from saurz studio",
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "rpc":"https://sei-rpc.polkachu.com/",
+    "network":"pacific-1", 
+    "collection_address":"sei1x82qnlxq5p5gn348zj5euu0wt3vszvlppfcuzh3n2gj6lhk6knmqv5art6", 
     "nft_name_type": "default",
     "groups":[
         {
